@@ -55,7 +55,7 @@ The model effectively captures the price pivots and trends of the BAJFINANCE sto
 ---
 
 ## 🚀 Getting Started
-1. Clone the repo: `git clone https://github.com/CodeAlch/Multi-Output-Time-series-Forecasting.git`
+1. Clone the repo: `git clone https://github.com/4yushman/Multi-Output-Time-series-Forecasting.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the notebook: `ms22-assignment-ayushmanmaurya-25mam006.ipynb`
 
@@ -64,4 +64,4 @@ The model effectively captures the price pivots and trends of the BAJFINANCE sto
 ## 👤 Author
 **Ayushman Maurya**  
 MSc AI & ML Student | Jamia Millia Islamia  
-[LinkedIn](https://linkedin.com/in/4yushman) | [GitHub](https://github.com/CodeAlch)
+[LinkedIn](https://linkedin.com/in/4yushman) | [GitHub](https://github.com/4yushman)
