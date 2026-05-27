@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An advanced deep learning project aimed at predicting multi-output stock market indicators for **NIFTY-50 (BAJFINANCE)** using Long Short-Term Memory (LSTM) networks. 
+An advanced deep learning project aimed at predicting multi-output stock market indicators for **[NIFTY-50 (BAJFINANCE)](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data/)** using Long Short-Term Memory (LSTM) networks. 
 
 ---
 
