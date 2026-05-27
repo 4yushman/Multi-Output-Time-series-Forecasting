@@ -1,4 +1,4 @@
-# 🚀 Multivariate Time-Series Stock Forecasting using LSTM
+# Multivariate Time-Series Stock Forecasting using LSTM
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
@@ -8,7 +8,7 @@ An advanced deep learning project aimed at predicting multi-output stock market 
 
 ---
 
-## 🌟 Key Highlights
+## Key Highlights
 - **Multi-Output Forecasting:** Predicts 11 features (Open, High, Low, Volume, etc.) simultaneously for a 5-day horizon.
 - **Advanced Preprocessing:** Implemented **Log-Normal Transformation** to stabilize variance and handle heavily skewed financial features.
 - **GPU Accelerated:** Optimized for **NVIDIA Tesla T4 (CUDA)**, ensuring high-speed tensor computations.
@@ -16,7 +16,7 @@ An advanced deep learning project aimed at predicting multi-output stock market 
 
 ---
 
-## 📊 Technical Process & Visualizations
+## Technical Process & Visualizations
 
 ### 1. Handling Skewed Data (Pre-processing)
 Financial data often exhibits high skewness. I analyzed the distribution and applied **Log Transformation** to normalize the features, which significantly improved model convergence.
@@ -38,7 +38,7 @@ The model effectively captures the price pivots and trends of the BAJFINANCE sto
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 - **Input:** 11 Market Features (Sliding window of 10 days)
 - **Architecture:** 2 LSTM Layers (64/32 units) + Dropout (0.2)
 - **Optimizer:** Adam with Learning Rate Scheduling
@@ -46,7 +46,7 @@ The model effectively captures the price pivots and trends of the BAJFINANCE sto
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python
 - **Frameworks:** PyTorch, Scikit-learn
 - **Data:** Pandas, NumPy
@@ -54,7 +54,7 @@ The model effectively captures the price pivots and trends of the BAJFINANCE sto
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 1. Clone the repo: `git clone https://github.com/4yushman/Multi-Output-Time-series-Forecasting.git`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the notebook: `ms22-assignment-ayushmanmaurya-25mam006.ipynb`
